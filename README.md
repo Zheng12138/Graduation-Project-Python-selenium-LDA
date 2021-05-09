@@ -1,0 +1,2 @@
+# Graduation-Project-Python-selenium-LDA
+The experiment in this article uses the selenium library of python language, and uses multi-threading to crawl and search the titles, abstracts, keywords, authors and other information of related journals, degrees and conference papers in the Wanfang database with "geological hazards" as the keyword. , And store the corresponding tables in the MySQL database, and finally use the LDA model to visually analyze the crawled information according to the summary information and keywords.
